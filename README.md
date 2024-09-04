@@ -3,8 +3,10 @@
 
 [2] composer install
 
-[3] php artisan serve
+[3] rename .env.example -> .env
 
-[4] npm run dev
+[4] php artisan serve
+
+[5] npm run dev
 
 Done.
