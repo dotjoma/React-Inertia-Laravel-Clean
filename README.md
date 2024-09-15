@@ -5,8 +5,10 @@
 
 [3] rename .env.example -> .env
 
-[4] php artisan serve
+[4] run command -> php artisan key:generate
 
-[5] npm run dev
+[5] php artisan serve
+
+[6] npm run dev
 
 Done.
